@@ -1,8 +1,7 @@
 # Final Year Project – Full Stack Web Application
 
 > **📄 Note:**  
-> You can click on **Rehman-SRS.pdf** (above in the file list) to **download** and review the complete Software Requirements Specification (SRS) document for this project.
-
+> You can click on Rehman-SRS.pdf (above in the file list), then download it to your device and open the downloaded file to review the complete Software Requirements Specification (SRS) document for this project.
 ---
 
 ## 🧩 Project Overview
